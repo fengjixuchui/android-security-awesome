@@ -14,7 +14,6 @@ A collection of android security related resources.
 
 
 1. [AndroTotal](http://andrototal.org/)
-3. [Visual Threat](http://www.visualthreat.com/)
 4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 5. [Appknox](https://www.appknox.com/) - not free
 6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
@@ -25,6 +24,7 @@ A collection of android security related resources.
 12. [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 14. [AMAaaS](https://amaaas.com) - Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of MalwarePot (https://malwarepot.com/index.php/AMAaaS) - Free.
+15. ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 15. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 15. ~~[habo](https://habo.qq.com/) - 10/day~~
 16. ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
@@ -96,7 +96,6 @@ A collection of android security related resources.
 19. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 20. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
-22. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
 23. [Aurasium](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
 24. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 25. [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on USB stick or smartphone. This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
@@ -105,6 +104,7 @@ A collection of android security related resources.
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
 30. [Taintdroid](http://appanalysis.org) - requires AOSP compilation
+31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 
@@ -123,7 +123,7 @@ A collection of android security related resources.
 10. [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
 11. [Dex2Jar](https://github.com/pxb1988/dex2jar) - dex to jar converter
 12. [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
-13. [Dedexer](http://dedexer.sourceforge.net)
+13. [Dedexer](https://sourceforge.net/projects/dedexer/)
 14. [Fino](https://github.com/sysdream/fino)
 15. [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
 16. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
