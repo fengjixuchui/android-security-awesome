@@ -12,7 +12,10 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip',\
 'habo.qq.com','www.fasteque.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
 'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com',\
-'https://redmine.honeynet.org/projects/are/wiki','https://www.visualthreat.com/'
+'https://redmine.honeynet.org/projects/are/wiki','https://www.visualthreat.com/',\
+'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\
+'http://siis.cse.psu.edu/tools.html','http://siis.cse.psu.edu/dare/index.html',\
+'http://codekiem.com/2012/02/24/apk-downloader/','https://apkscan.nviso.be'
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md
