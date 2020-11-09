@@ -10,13 +10,15 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://www.comdroid.org/','http://www.androidsandbox.net/','http://andrototal.org',\
 'http://www.mobile-app-insight.org','http://anubis.iseclab.org/',\
 'http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip',\
-'habo.qq.com','www.fasteque.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
+'habo.qq.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
 'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com',\
 'https://redmine.honeynet.org/projects/are/wiki','https://www.visualthreat.com/',\
 'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\
 'http://siis.cse.psu.edu/tools.html','http://siis.cse.psu.edu/dare/index.html',\
 'http://codekiem.com/2012/02/24/apk-downloader/','https://apkscan.nviso.be',\
-'http://ww38.xchg.info'
+'http://ww38.xchg.info','https://thecobraden.com/projects/cobradroid',\
+'https://bitbucket.org/mstrobel/procyon/wiki/',\
+'https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares'
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md
